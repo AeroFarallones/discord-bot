@@ -1,0 +1,15 @@
+{
+    "successVerifyMessage": "Marchando correctamente!\n recuerda en nuestra pagina agregar tu ID de perfil, obten tu profile Id dandole click al boton despues agrega este mismo en 'Edit Profile'",
+    "tickets":{
+        "TicketInformation": "**¿Tienes alguna duda?** \n Abre un ticket, llena la informacion solicitada y espera que algun staff te contacte! :) \n Recuerda que abrir un ticket innecesariamente con lleva a una **falta sancion menor segun nuestro MGO**",
+        "FLSOptionDescription": "Si tienes algun error con nuestros sistema o quieres reportar un miembro, esta es tu opcion",
+        "IvaoOptionDescription": "¿Algun error con la division o con la red?, puedes hacerlo saber",
+        "IvaoOptionResult": "Como tu error es externo a nuestros servicios puedes ir https://discord.co.ivao.aero y abrir un ticket allí",
+        "FLSOptionResult": ""
+    },
+    "responseTicket": {
+        "TicketFirstResponse": "a continuacion ingrese su tipo de solicitud: ",
+        "TicketFillResponse" : "¡Informacion obtenida y verificada! \n Por favor espera que algun miembro del staff responda",
+        "TicketEndResponse":  "Esperamos que tus dudas hayan sido resueltas... ¡Gracias por volar con **AeroFarallones**!"
+    }
+}
